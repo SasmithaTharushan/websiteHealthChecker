@@ -15,3 +15,4 @@ To use this tool, you need Go installed on your machine. Follow the instructions
 git clone https://github.com/yourusername/website-health-checker.git
 cd website-health-checker
 ![Screenshot (60)](https://github.com/user-attachments/assets/b4a293d5-25c8-4b4d-9d7d-6284f1b83e29)
+
